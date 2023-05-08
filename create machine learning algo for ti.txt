@@ -1,0 +1,17 @@
+create machine learning algo for tiny dataset
+
+initialize and ask user for amount of epochs (+50 per keypress, shown in chararray on screen)
+
+press key to start
+
+
+every 20 epochs, update screen with relevant data
+
+
+in the end, fill screen with pixels based on accuracy (color moves from red to green, red for failed tests and green for passed). 
+
+Anger
+Angerangger
+Anger
+
+optimize the shit out this piece of garbage code. 
